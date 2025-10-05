@@ -15,7 +15,7 @@ const monaSans = Mona_Sans({
 });
 
 export const metadata: Metadata = {
-    title: "crextio",
+    title: "crextio app",
     description: "",
 };
 
